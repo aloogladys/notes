@@ -120,7 +120,7 @@ STATIC_URL = 'static/'
 
 
 STATICFILES_DIRS = [
-    BASE_DIR / "static",
+    BASE_DIR / "notes_app/static",
 ]
 
 # Default primary key field type
